@@ -12,7 +12,7 @@ Next.js is a framework for building server-rendered React applications. It provi
 
 ## How to use this repository
 
-This repository contains a Next.js web application that demonstrates how to interact with the Aptos blockchain and retrieve an account information.
+This repository contains a Next.js web application that demonstrates how to interact with the Aptos blockchain and retrieve information on an account.
 
 1. Clone the repository and install the dependencies by running npm install
 2. Start the development server by running npm run dev
