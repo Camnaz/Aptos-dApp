@@ -14,8 +14,7 @@ Next.js is a framework for building server-rendered React applications. It provi
 
 This repository contains a Next.js web application that demonstrates how to interact with the Aptos blockchain and retrieve an account information.
 
-Clone the repository and install the dependencies by running npm install
-Start the development server by running npm run dev
-Connect to the Aptos network by providing the network endpoint in the config.js file
-Retrieve the account information by providing the account address in the config.js file
-You will also find instructions on how to deploy your dApp to the Aptos testnet for testing and development.
+1. Clone the repository and install the dependencies by running npm install
+2. Start the development server by running npm run dev
+3. Connect to the Aptos network by providing the network endpoint in the config.js file
+4. Retrieve the account information by providing the account address in the config.js file
